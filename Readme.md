@@ -20,3 +20,5 @@ Basically all message header data is optional, however to be able to write servi
 # Defined Message Types - htypes
 
 * [pilatus-1.0](pilatus-1.0.md)
+* [array-1.0](array-1.0.md)
+* [chunk-1.0](chunk-1.0.md)
