@@ -15,3 +15,8 @@ Basically all message header data is optional, however to be able to write servi
 | Name | Type | Default | Comment |
 | ---- | ---- | ------- | ------- |
 | htype | String | "" | Header compliant to specifications ...|
+
+
+# Defined Message Types - htypes
+
+* [pilatus-1.0](pilatus-1.0.md)

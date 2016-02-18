@@ -3,7 +3,7 @@
 A __pilatus-1.0__ message consists of two sub-messages, the main header and a binary part which holds the raw bytes of the cbf files "written" by the (Pilatus) detector.
 
 ```
-[][main header][binary blob cbf]]
+[[main header][binary blob cbf]]
 ```
 
 The header consists of following fields:
