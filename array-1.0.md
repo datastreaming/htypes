@@ -5,7 +5,7 @@ __array-1.0__ specifies the header of image messages from a camera/detector sour
 | Name | Type | Default | Comment |
 | ---- | ---- | ------- | ------- |
 | shape | Array[ Integer ] | [] | [...,z,y,x] |
-| type | String | | (u)int8, (u)int16, (u)int32, (u)int64 |
+| type | String | | (u)int8, (u)int16, (u)int32, (u)int64, float16, float32, float64 |
 | endianness | String | "little" | big, little |
 | frame | Integer | | Frame ID starting at 0 |
 | source | String | "" | Used to identify hardware source |
